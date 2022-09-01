@@ -1,0 +1,22 @@
+.navbar{
+    background-color:#ffffff;
+    
+
+}
+.navContent{
+    color:grey;
+}
+.navContent:hover{
+    background:rgba(71,148,247,0.3);
+}
+/* .navcon{
+    width: 30%;
+} */
+/* .fixed-top{
+    
+    /* height: 7rem; */
+
+#Nav1{
+    
+    scroll-behavior: smooth;
+}
